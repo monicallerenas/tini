@@ -1,0 +1,71 @@
+header{
+	background: #FACC2E;
+	color:white;
+}
+ul{
+	list-style-type: none;
+	float: right;
+}
+li{
+	display: inline-block;
+	margin:15px;
+}
+.boton{
+	width: 200px;
+	height: 50px;
+	background:#FE9A2E;
+	text-align: center;
+	padding: 20px;
+	margin:50px 0px 0px 0px;
+}
+h2{
+	font-size: 36px;
+	margin: 250px 0px;
+}
+p{
+	font-size: 14px;
+	margin:-250px 0px 300px 40px;
+}
+section{
+	background:#D8CEF6;
+	color:#D0A9F5;
+	padding: 50px;
+}
+.ejemplo{
+	width: 400px;
+	height: 600px;
+	background: white;
+	padding: 50px 50px 50px 50px;
+	margin: 20px 0px 10px 0px;
+}
+.foto{
+	border:#D0A9F5 2px solid;
+}
+.uno{
+	margin:15px 0px 10px 0px;
+}
+.boton2{
+	width: 150px;
+	height: 50px;
+	background: #FE9A2E;
+	text-align: center;
+	padding: 15px;
+}
+.titulo{
+	font-size: 22px;
+}
+footer{
+	background:#585858;
+	color:white;
+	height: 100px;
+}
+hr{
+	width: 2px;
+	height: 12px;
+	background: white;
+	display: inline-block;
+}
+h5{
+	margin:40px 0px;
+	font-size: 16px;
+}
